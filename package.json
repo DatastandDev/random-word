@@ -21,7 +21,7 @@
   "author": "Shahrukh Khan",
   "license": "Software is developed under Tagstand.",
   "dependencies": {
-    "random-word-datastand": "^1.0.2",
+    "random-word-datastand": "^1.0.3",
     "seedrandom": "^3.0.5"
   },
   "devDependencies": {
